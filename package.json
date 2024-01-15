@@ -1,0 +1,23 @@
+{
+  "icon": "src/logo.png",
+  "name": "dark-brackets-theme",
+  "displayName": "Dark Brackets Theme",
+  "description": "a simple and unique color palette extravaganza designed for Developers/Learners.",
+  "version": "1.0.0",
+  "publisher": "Varun Borra",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Brackets Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/theme.json"
+      }
+    ]
+  }
+}
