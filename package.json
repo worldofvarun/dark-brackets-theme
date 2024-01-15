@@ -5,6 +5,11 @@
   "description": "a simple and unique color palette extravaganza designed theme for Developers/Learners.",
   "version": "1.0.0",
   "publisher": "Varun Borra",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/worldofvarun/dark-brackets-theme.git"
+  },
+  "license":"MIT",
   "engines": {
     "vscode": "^1.85.0"
   },
